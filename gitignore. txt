@@ -1,0 +1,42 @@
+# Virtual environment
+venv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Dependency directories
+.idea/
+node_modules/
+
+# Distribution / packaging
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# pyTelegramBotAPI token
+bot.token
+
+# dotenv environment variable files
+.env
+.env.*
+
+# SQLite database files
+*.sqlite3
+
+# Log files
+*.log
